@@ -7,6 +7,7 @@ The function `decrypt(string message)` runs brute force and calculates word weig
 # Available Static Functions
 
 `static string encrypt(string message, int key)`
+
 `static string decrypt(string message, int key)`
 
 `key` must be less than 26, and nonzero.
