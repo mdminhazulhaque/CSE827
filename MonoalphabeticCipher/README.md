@@ -15,7 +15,7 @@ The function `decrypt(string message)` runs brute force and calculates word weig
 
 `static string decrypt(string message, int key)`
 
-`key` must be less than 26, and nonzero.
+`key` must be equal to 26, and nonzero.
 
 # How To
 
